@@ -36,7 +36,7 @@ Future plans regarding LakeEnsemblR:
 ## Prerequisites
 
 There are two paths to follow the workshop examples:
-  # 1. Use Github and your local R setup
+  ### 1. Use Github and your local R setup
   Clone or download files from this [Github repository](https://github.com/robertladwig/G21.5_GSA_workshop/tree/master/LakeEnsemblR). 
   You’ll need R (version >= 3.5), preferably a GUI of your choice (e.g., Rstudio) and these packages: 
   ``` 
@@ -51,7 +51,7 @@ There are two paths to follow the workshop examples:
   devtools::install_github("aemon-j/MyLakeR")
   devtools::install_github("aemon-j/LakeEnsemblR")
   ```
-  # 2. Use Docker
+  ### 2. Use Docker
   To be sure that all the examples will *work* during the workshop, you can use a [container](https://hub.docker.com/r/hydrobert/lakeensemblr-rocker) of all the material. I'll quote the Docker website here: 
   > "A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings." 
   
