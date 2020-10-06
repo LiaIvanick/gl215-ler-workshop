@@ -31,6 +31,11 @@ Using the model in R:
 
 Questions and problems:
   - Stick around to talk about questions and raise issues 
+  
+## Questions or issues?
+Feel free to write me an email at rladwig2@wisc.edu, and/or join the [official GLM slack channel](https://join.slack.com/t/general-lake-model/shared_invite/zt-a7pyrxhj-oe4dYm6oLQfk1r_ZGLFTwQ).
+During the workshop you can ask urgent questions directly any time by 'raising your hand' in Zoom. 
+Otherwise, you can also post your questions in [this google doc](https://docs.google.com/document/d/1uKsswTH4W1qZe8smbGfnsfKMdcur_cPIHcCMpI3GsPM/edit?usp=sharing) and we will talk about it at the end of the workshop. Or, if there's no time left, I can email you the answer if you provide your email address in the google document. There's also time to ask questions at the end of the workshop.
 
 ## Prerequisites
   
