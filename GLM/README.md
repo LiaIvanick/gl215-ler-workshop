@@ -39,11 +39,11 @@ Otherwise, you can also post your questions in [this google doc](https://docs.go
 
 ## Prerequisites
   
-  # Word of caution
+  ### Word of caution
 This workshop example was tested on General Lake Model (GLM) Version 3.1.0b1. The setup may not work using older and more recent versions of GLM.
 
 There are two paths to follow the workshop examples:
-  # 1. Use Github and your local R setup
+  ### 1. Use Github and your local R setup
   Clone or download files from this [Github repository](https://github.com/robertladwig/GLM_workshop). 
   You’ll need R (version >= 3.5), preferably a GUI of your choice (e.g., Rstudio) and these packages: 
   ``` 
@@ -53,7 +53,7 @@ There are two paths to follow the workshop examples:
   install.packages("rLakeAnalyzer")
   install.packages("tidyverse")
   ```
-  # 2. Use Docker
+  ### 2. Use Docker
   To be sure that all the examples will *work* during the workshop, you can use a [container](https://hub.docker.com/r/hydrobert/glm-workshop) of all the material. I'll quote the Docker website here: 
   > "A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings." 
   
