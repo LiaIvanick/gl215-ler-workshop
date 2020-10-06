@@ -6,7 +6,7 @@
 :spiral_calendar: October 15, 2020  
 :alarm_clock:     15:00-17:00 CEST 
 :busts_in_silhouette: Jorrit Mesman, Johannes Feldbauer, Tadhg Moore, Robert Ladwig   
-:computer: [Material](https://github.com/robertladwig/G21.5_GSA_workshop/tree/master/LakeEnsemblR)  
+:computer: [Material](https://github.com/gsagleon/G21.5_GSA_workshop/tree/master/LakeEnsemblR)  
 :octocat: [Homepage](https://github.com/aemon-j/LakeEnsemblR)
 
 -----
@@ -37,7 +37,7 @@ Future plans regarding LakeEnsemblR:
 
 There are two paths to follow the workshop examples:
   ### 1. Use Github and your local R setup
-  Clone or download files from this [Github repository](https://github.com/robertladwig/G21.5_GSA_workshop/tree/master/LakeEnsemblR). 
+  Clone or download files from this Github repository. 
   You’ll need R (version >= 3.5), preferably a GUI of your choice (e.g., Rstudio) and these packages: 
   ``` 
   require("devtools")
@@ -61,6 +61,10 @@ There are two paths to follow the workshop examples:
   docker run --rm -d  -p 8000:8000 -e ROOT=TRUE -e PASSWORD=password hydrobert/lakeensemblr-rocker:latest
   ```
   Then, open any web browser and type ‘localhost:8000’ and input user: rstudio, and password: password. Rstudio will open up with the script and data available in the file window. 
+
+## Files
   
+  The HTML and PDF files in the repository both contain the information needed for the workshop. You can pick which one you prefer. You can copy the code into an R script and run it yourself, or use the pre-made R script ("G21_5_Workshop_LakeEnsemblR.R"), which contains all the lines of code that are run during the workshop and some short comments. 
+
 -----
 
