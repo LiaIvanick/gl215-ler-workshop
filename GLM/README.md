@@ -4,7 +4,7 @@
 -----
 
 :spiral_calendar: October 14, 2020  
-:alarm_clock:     09:30 - 12:00 CDT  
+:alarm_clock:     14:30 - 17:00 GMT (09:30 - 12:00 CDT)  
 :busts_in_silhouette: Robert Ladwig, Aryan Adhlakha, Hilary Dugan & Paul Hanson    
 :computer: [Material](https://github.com/robertladwig/GLM_workshop) 
 :open_book: [Presentation](https://github.com/gsagleon/G21.5_GSA_workshop/blob/master/GLM/GLM_workshop.pdf)
