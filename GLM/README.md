@@ -20,7 +20,7 @@ The aim of this workshop is (1) to give a general introduction to process-based 
 Introduction to process-based lake modeling (get the slides [here](https://github.com/gsagleon/G21.5_GSA_workshop/blob/master/GLM/GLM_workshop.pdf)):
   - What is process-based modeling?
   - GLM theory and applications
-  - AED2 theory and examples for O2 and C
+  - AED2 theory and examples for oxygen and carbon
   - Overview of available R-packages
   
 Using the model in R:
