@@ -3,13 +3,13 @@
 
 ## install required libraries
 install.packages("devtools")
-install.packages(ggplot2)
-install.packages(ggpubr)
-install.packages(rLakeAnalyzer)
-install.packages(reshape)
+install.packages("ggplot2")
+install.packages("ggpubr")
+install.packages("rLakeAnalyzer")
+install.packages("reshape")
 # load devtools library
 library(devtools)
-install_github("GLEON/rLakeAnalyzer")
+
 install_github("USGS-R/glmtools", ref = "ggplot_overhaul")
 install_github("GLEON/GLM3r", ref = "GLMv.3.1.0a3")
 install_github("aemon-j/FLakeR", ref = "inflow")
