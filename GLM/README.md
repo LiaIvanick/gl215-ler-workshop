@@ -53,6 +53,7 @@ There are two paths to follow the workshop examples:
   install.packages("rLakeAnalyzer")
   install.packages("tidyverse")
   ```
+  Update: we have noticed that some users have problems running GLM under macOS. We've provided a fix in the script that, hopefully, enables you to run GLM in R even if you have not installed gfortran 9 or netcdf on your machine.
   ### 2. Use Docker
   To be sure that all the examples will *work* during the workshop, you can use a [container](https://hub.docker.com/r/hydrobert/glm-workshop) of all the material. I'll quote the Docker website here: 
   > "A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings." 
