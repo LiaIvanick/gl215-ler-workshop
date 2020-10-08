@@ -50,7 +50,7 @@ There are two paths to follow the workshop examples:
   
    You can install the Docker software from [here](https://docs.docker.com/get-docker/):
    
-   - For Windows users (especially Home), please read the installation instructions on [this site](https://docs.docker.com/docker-for-windows/install-windows-home/). You will need to enable WSL 2 features as described [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and the whole setup can take a while.
+   - For Windows users (especially Windows 10 Home), please read the installation instructions on [this site](https://docs.docker.com/docker-for-windows/install-windows-home/). You will need to enable WSL 2 features as described [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and the whole setup can take a while.
    - For Mac users, the installation is pretty and straightforward, please take a look at [this material](https://docs.docker.com/docker-for-mac/install/).
    - You will find an overview of docker installation instructions for most Linux distributions [here](https://docs.docker.com/engine/install/).
    
