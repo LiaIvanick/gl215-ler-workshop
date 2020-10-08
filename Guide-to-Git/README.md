@@ -4,9 +4,6 @@
 
 :spiral_calendar: October 13, 2020  
 :alarm_clock:     13:00 - 15:00 EST  
-:cloud: [rstudio.cloud](https://rstudio.cloud)     
-:computer: [materials](https://github.com/gsagleon/G21.5_GSA_workshop/tree/master/Guide-to-Git)  
-
 -----
 
 Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. The aim of this workshop is to give a general introduction of using Git for version control and to demonstrate how and why this widely used tool can be used in academic research for anything that changes over time or needs to be shared such as software, papers, and small data sets.
@@ -17,16 +14,17 @@ In this lesson we use Git from the Unix Shell. Some previous experience with the
 
 ## Prework
 
+0. Make sure you can login to a [GitHub](https://github.com/) account or open an account if you don't already have one. 
+
 1. Setup Git and the RStudio interface to Git on your local system.
 
-    1.1 See the `happygitwithr` instuctions for installing: [R/RStudio](https://happygitwithr.com/install-r-rstudio.html) and [Git](https://happygitwithr.com/install-git.html)
+    1.1 See the `happygitwithr` instructions for installing: [R/RStudio](https://happygitwithr.com/install-r-rstudio.html) and [Git](https://happygitwithr.com/install-git.html)
     
     1.2 These YouTube videos may be helpful as well: [Windows](https://youtu.be/339AEqk9c-8) or [Mac](https://youtu.be/9LQhwETCdwY)
 
-2. An alternative to (1) if you can't (or don't want to) use your own system. Shortly before the workshop starts, open up a new project in `rstudio.cloud` by following this link: [rstudio.cloud/](https://rstudio.cloud/). 
+2. An alternative to (1) if you can't (or don't want to) use your own system. Before the workshop starts, navigate to [rstudio.cloud](https://rstudio.cloud/). 
     - You may be prompted to set up an account, which is free. If you already have an account, use that.
-    - Your `rstudio.cloud` project is yours and you can leave it for future reference or delete it after the workshop: your choice.
-
+    
 ## Schedule
 
 | Time          | Topic            | 
