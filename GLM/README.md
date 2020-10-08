@@ -42,7 +42,7 @@ Otherwise, you can also post your questions in [this google doc](https://docs.go
   ### Word of caution
 This workshop example was tested on General Lake Model (GLM) Version 3.1.0b1. The setup may not work using older and more recent versions of GLM.
 
-There are two paths to follow the workshop examples:
+There are two paths to follow the workshop examples. *We recommend the first option (using Docker).*
   
   ### 1. Use Docker
   To be sure that all the examples will *work* during the workshop, you can use a [container](https://hub.docker.com/r/hydrobert/glm-workshop) of all the material. I'll quote the Docker website here: 
