@@ -10,7 +10,7 @@ Version control is the lab notebook of the digital world: it’s what profession
 
 In this workshop we will use Git from the Unix Shell. Some previous experience with the shell will be helpful, but isn’t mandatory.
 
-## Prework
+## Setup and Installation
 
  * Make sure you can login to a [GitHub](https://github.com/) account or open an account if you don't already have one. 
 
