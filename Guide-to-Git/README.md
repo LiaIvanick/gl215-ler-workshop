@@ -1,7 +1,5 @@
 # Version control software (Git) for application in academic research
 
------
-
 :spiral_calendar: October 13, 2020  
 :alarm_clock:     13:00 - 15:00 EST  
 -----
@@ -30,13 +28,13 @@ In this lesson we use Git from the Unix Shell. Some previous experience with the
 | Time          | Topic            | 
 | :------------ | :-------------------------- |
 | 11:00 - 11:10 | Opening remarks             |
-| 11:10 - 11:15 | [Setting Up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html) |
-| 11:15 - 11:25 | Creating a Repository       |
-| 11:25 - 11:45 | Tracking Changes            |
-| 11:45 - 12:00 | Break                       |
-| 12:00 - 12:25 | Exploring History           |
-| 12:25 - 12:30 | Ignoring Things             |
-| 12:30 - 13:00 | Remotes in GitHub           |
+| 11:10 - 11:15 | [Setting Up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html)         |
+| 11:15 - 11:25 | [Creating a Repository](https://swcarpentry.github.io/git-novice/03-create/index.html) |
+| 11:25 - 11:45 | [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes/index.html)     |
+| 11:45 - 12:00 | Break :coffee:                       |
+| 12:00 - 12:25 | [Exploring History](https://swcarpentry.github.io/git-novice/05-history/index.html)    |
+| 12:25 - 12:30 | [Ignoring Things](https://swcarpentry.github.io/git-novice/06-ignore/index.html)       |
+| 12:30 - 13:00 | [Remotes](https://swcarpentry.github.io/git-novice/07-github/index.html)               |
 
 ## Instructors
 
