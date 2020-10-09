@@ -10,17 +10,17 @@ Version control is the lab notebook of the digital world: it’s what profession
 
 In this workshop we will use Git from the Unix Shell. Some previous experience with the shell will be helpful, but isn’t mandatory.
 
-## Prework
+## Setup and Installation
 
  * Make sure you can login to a [GitHub](https://github.com/) account or open an account if you don't already have one. 
 
- * (Alternative 1) - Setup Git and the RStudio interface to Git on your local system:
+ * (Alternative 1) - Setup Git and the RStudio interface to Git on your local system.
 
     * See the `happygitwithr` instructions for installing: [R/RStudio](https://happygitwithr.com/install-r-rstudio.html) and [Git](https://happygitwithr.com/install-git.html)
     
     * These YouTube videos may be helpful as well: [Windows](https://youtu.be/339AEqk9c-8) or [Mac](https://youtu.be/9LQhwETCdwY)
 
- * (Alternative 2) - If you can't (or don't want to) use your own system. Before the workshop starts, navigate to [rstudio.cloud](https://rstudio.cloud/). 
+ * (Alternative 2) - If you can't (or don't want to) use your own system. Before the workshop starts, navigate to [rstudio.cloud](https://rstudio.cloud/) 
     - You may be prompted to set up an account, which is free. If you already have an account, use that.
     
 ## Schedule
