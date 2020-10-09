@@ -85,11 +85,14 @@ There are two paths to follow the workshop examples. *We recommend the first opt
   You’ll need R (version >= 3.5), preferably a GUI of your choice (e.g., Rstudio) and these packages: 
   ``` 
   require(devtools)
+  # macOS and Linux:
   devtools::install_github("GLEON/GLM3r", ref = "GLMv.3.1.0a3")
+  # Windows:
+  devtools::install_github("GLEON/GLM3r")
   devtools::install_github("hdugan/glmtools", ref = "ggplot_overhaul")
   install.packages("rLakeAnalyzer")
   install.packages("tidyverse")
   ```
-Update: we have noticed that some users have problems running GLM under macOS. We've provided a fix in the script that, hopefully, enables you to run GLM in R even if you have not installed gfortran 9 or netcdf on your machine. Also, some Windows users reported problems in the example files with the water quality simulations. We are still investigating what the problem could be.
+Update: Windows users will run v3.1.0a4 whereas Unix users use v3.1.0b1. Unfortunately, some differences between these versions can occur in the model outputs. We are still working on the GLM3r and glmtools packages to keep them updated with new GLM-AED2 releases and to implement new features for model evaluation.
    
 -----
