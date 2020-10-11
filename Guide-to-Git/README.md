@@ -1,7 +1,7 @@
 # Version control software (Git) for application in academic research
 
 :spiral_calendar: October 13, 2020  
-:alarm_clock:     13:00 - 15:00 EST  
+:alarm_clock:     13:00 - 15:00 EDT  
 -----
 
 Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. The aim of this workshop is to give a general introduction of using Git for version control and to demonstrate how and why this widely used tool can be used in academic research for anything that changes over time or needs to be shared such as software, papers, and small data sets.
@@ -29,16 +29,21 @@ In this workshop we will use Git from the Unix Shell. Some previous experience w
 | :------------ | :-------------------------- |
 | 13:00 - 13:10 | Opening remarks             |
 | 13:10 - 13:15 | [Setting Up Git](https://swcarpentry.github.io/git-novice/02-setup/index.html)         |
-| 13:15 - 13:25 | [Creating a Repository](https://swcarpentry.github.io/git-novice/03-create/index.html) |
-| 13:25 - 13:45 | [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes/index.html)     |
-| 13:45 - 14:00 | Break :coffee:                       |
-| 14:00 - 14:25 | [Exploring History](https://swcarpentry.github.io/git-novice/05-history/index.html)    |
-| 14:25 - 14:30 | [Ignoring Things](https://swcarpentry.github.io/git-novice/06-ignore/index.html)       |
-| 14:30 - 15:00 | [Remotes](https://swcarpentry.github.io/git-novice/07-github/index.html)               |
+| 13:15 - 13:35 | [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes/index.html)     |
+| 13:35 - 13:55 | Break :coffee:                       |
+| 13:55 - 14:00 | [Ignoring Things](https://swcarpentry.github.io/git-novice/06-ignore/index.html)       |
+| 14:00 - 14:30 | [Remotes](https://swcarpentry.github.io/git-novice/07-github/index.html)               |
+| 14:30 - 15:00 | Github power-use demo |
 
 ## Instructors
 
 * Joe Stachelek
+
+## Resources
+
+https://happygitwithr.com/
+
+https://swcarpentry.github.io/git-novice/
 
 -----
 
