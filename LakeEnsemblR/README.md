@@ -51,6 +51,21 @@ There are two paths to follow the workshop examples:
   devtools::install_github("aemon-j/MyLakeR")
   devtools::install_github("aemon-j/LakeEnsemblR")
   ```
+  #### Update:
+  If you experience problems on macOS (we tested the model binaries only for macOS Catalina) with error messages like 'dyld: Library not loaded', you can try the following approach:     
+  
+   - install the missing libraries, e.g. by using ['brew'](https://brew.sh): ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
+   - then you will need the missing libraries or you will need to update your current versions of gfortran, netcdf and gc: ``` brew install gcc ```, ``` brew install netcdf```, ``` brew install gc```
+   - check if everything is working: ```gcc -v``` and ```gfortran --version``` which should give you 
+   
+   > "Apple clang version 12.0.0 (clang-1200.0.32.2)"
+   
+   and
+   
+   > "GNU Fortran (Homebrew GCC 10.2.0) 10.2.0" 
+   
+   - if you still experience library problems, you can continue installing these missing dependencies using 'brew'
+   
   ### 2. Use Docker
   To be sure that all the examples will *work* during the workshop, you can use a [container](https://hub.docker.com/r/hydrobert/lakeensemblr-rocker) of all the material. I'll quote the Docker website here: 
   > "A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings." 
