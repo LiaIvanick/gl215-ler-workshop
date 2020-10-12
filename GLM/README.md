@@ -95,7 +95,7 @@ There are two paths to follow the workshop examples. *We recommend the first opt
   install.packages("rLakeAnalyzer")
   install.packages("tidyverse")
   ```
-Update: Windows users will run v3.1.0a4 whereas Unix users use v3.1.0b1. Unfortunately, some differences between these versions can occur in the model outputs. We are still working on the GLM3r and glmtools packages to keep them updated with new GLM-AED2 releases and to implement new features for model evaluation. The Windows binary sometimes freezes, which can stop the calibration routine. If this happens, please 'stop' the command and re-run it. If you experience problems on macOS with error messages like 'dyld: Library not loaded', you can try the following approaches:
+Update: Windows users will run v3.1.0a4 whereas Unix users use v3.1.0b1. Unfortunately, some differences between these versions can occur in the model outputs. We are still working on the GLM3r and glmtools packages to keep them updated with new GLM-AED2 releases and to implement new features for model evaluation. The Windows binary sometimes freezes, which can stop the calibration routine. If this happens, please 'stop' the command and re-run it. If you experience problems on macOS (we tested the package mostly for macOS >= Catalina) with error messages like 'dyld: Library not loaded', you can try the following approaches:
        
    - use ``` devtools::install_github("robertladwig/GLM3r", ref = "v3.1.0a3") ``` to install GLM3r
    - or install the missing libraries, e.g. by using 'brew': ``` brew install gcc ```, ``` brew install netcdf```, ``` brew install gc```
