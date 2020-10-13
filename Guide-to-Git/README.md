@@ -45,6 +45,8 @@ https://happygitwithr.com/
 
 https://swcarpentry.github.io/git-novice/
 
+https://dangitgit.com/en
+
 -----
 
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is
