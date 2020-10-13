@@ -95,7 +95,7 @@ There are two paths to follow the workshop examples. *We recommend the first opt
 Update: If the GLM3r installation does not work for you and you're experiencing problems when running ```run_glm()```, then you can try installing:
 
   ```
-  macOS/Linux
+  # macOS/Linux
   devtools::install_github("GLEON/GLM3r", ref = "GLMv.3.1.0a3")
   # Windows:
   devtools::install_github("GLEON/GLM3r")
