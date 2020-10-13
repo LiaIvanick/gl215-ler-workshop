@@ -13,7 +13,7 @@
 
 ## Description
 
-A guided walkthrough of the new [R package “LakeEnsemblR”](https://github.com/aemon-j/LakeEnsemblR) that has been developed within the GLEON modelling group. Learn how to set up multiple lake models for your lake physical system, how to calibrate your models and explore model uncertainty. Brainstorming of further ideas for how this package can be applied to aid further research. Everyone is welcome to attend, but the workshop is mostly aimed at people with at least some experience in lake modelling. 
+A guided walkthrough of the new [R package "LakeEnsemblR""](https://github.com/aemon-j/LakeEnsemblR) that has been developed within the GLEON modelling group. Learn how to set up multiple lake models for your lake physical system, how to calibrate your models and explore model uncertainty. Brainstorming of further ideas for how this package can be applied to aid further research. Everyone is welcome to attend, but the workshop is mostly aimed at people with at least some experience in lake modelling. 
 
 ## What will this workshop cover?
 
@@ -75,11 +75,14 @@ There are two paths to follow the workshop examples:
   docker pull hydrobert/lakeensemblr-rocker
   docker run --rm -d  -p 8000:8000 -e ROOT=TRUE -e PASSWORD=password hydrobert/lakeensemblr-rocker:latest
   ```
-  Then, open any web browser and type ‘localhost:8000’ and input user: rstudio, and password: password. Rstudio will open up with the script and data available in the file window. 
+  Then, open any web browser and type "localhost:8000" and input user: rstudio, and password: password. Rstudio will open up with the script and data available in the file window. 
 
 ## Files
-  
+  ### Workshop Files
   The HTML and PDF files in the repository both contain the information needed for the workshop. You can pick which one you prefer. You can copy the code into an R script and run it yourself, or use the pre-made R script ("G21_5_Workshop_LakeEnsemblR.R"), which contains all the lines of code that are run during the workshop and some short comments. 
+  
+  ### LakeEnsemblR Examples
+  There is a selection of lakes of different areas, depths and climatic zones that have been collated to show you different applications of `LakeEnsemblR`. They can be downloaded from the [LER_examples](https://github.com/aemon-j/LER_examples) repository on the "aemon-j" GitHub account.
 
 -----
 
