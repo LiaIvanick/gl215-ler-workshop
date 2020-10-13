@@ -24,7 +24,6 @@ setwd("test/feeagh")
 ## Load required libraries for the workshop
 library(gotmtools)
 library(LakeEnsemblR)
-install.packages("testthat")
 
 # Set config file & models
 config_file <- 'LakeEnsemblR.yaml'
