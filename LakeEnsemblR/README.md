@@ -76,6 +76,10 @@ There are two paths to follow the workshop examples:
   docker run --rm -d  -p 8000:8000 -e ROOT=TRUE -e PASSWORD=password hydrobert/lakeensemblr-rocker:latest
   ```
   Then, open any web browser and type "localhost:8000" and input user: rstudio, and password: password. Rstudio will open up with the script and data available in the file window. 
+  
+  ### 3. [RStudio Cloud](https://rstudio.cloud/)
+  We have created a YouTube video walkthrough of how to set up LakeEnsemblR using [RStudio Cloud](https://rstudio.cloud/). Enjoy!
+  [![Guide to running LakeEnsemblR in RStudio Cloud](http://img.youtube.com/vi/3dUXoAVWx-c/0.jpg)](http://www.youtube.com/watch?v=3dUXoAVWx-c "Running LakeEnsemblR in RStudio Cloud")
 
 ## Files
   ### Workshop Files
