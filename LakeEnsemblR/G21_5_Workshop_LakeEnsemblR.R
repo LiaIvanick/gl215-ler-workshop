@@ -13,6 +13,7 @@
 
 ## set working directory to location the R script is stored - only in RStudio
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
+Sys.setenv(TZ = "UTC") # Set R timezone to UTC
 
 ## copy example files from the package to current working directory
 template_folder <- system.file("extdata/feeagh", package= "LakeEnsemblR")

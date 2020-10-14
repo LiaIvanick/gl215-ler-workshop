@@ -12,8 +12,8 @@ install.packages("reshape")
 # load devtools library
 library(devtools) # Installations from GitHub
 
-install_github("USGS-R/glmtools", ref = "ggplot_overhaul")
 install_github("GLEON/GLM3r", ref = "GLMv.3.1.0a3")
+install_github("USGS-R/glmtools", ref = "ggplot_overhaul")
 install_github("aemon-j/FLakeR", ref = "inflow")
 install_github("aemon-j/GOTMr")
 install_github("aemon-j/gotmtools")
